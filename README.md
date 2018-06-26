@@ -1,2 +1,0 @@
-# inventory
-Office inventory
